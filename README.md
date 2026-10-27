@@ -48,3 +48,8 @@ For instant bounty payouts, grant disbursements, x402 API settlements, or direct
 | [**PR #1809**](https://github.com/limitlessprojects/Go-Hybrid/pull/1809) | `hy-emit` (`lib.rs`) | Allocate `N5` zero maps on named return parameters and `?` error-propagation zero-value returns (Fixes [#1808](https://github.com/limitlessprojects/Go-Hybrid/issues/1808)) | `+32/-0` | `bot:land-candidate` (**9/9 Pareto NOW**) |
 | [**Audit #36**](https://github.com/rroland10/dex223-bug-bounty/issues/36) | `Dex223-contracts` (`@ 18fa327`) | `Dex223QuoteLib.quoteSwap` exact-output return inversion, `Dex223Pool.quoteSwap` `Error(string)` ABI-decode corruption, `ProtocolFeeCollector` 300k gas OOG on ERC-223 conversion, and `swapExactInput` negative `amountSpecified` check | 4 Findings | **EVM Smart-Contract Audit** |
 - **[RFC #1754](https://github.com/limitlessprojects/Go-Hybrid/issues/1754)** — **Architecture Proposal:** Canonical `CalleeRef` IR & zero-transpile `hyb check --go` analyzer.
+
+<!-- slop-wallet:v1 {"address":"0x669fba588d75577610459a2577eabdbbba080e4a","chain":"base"} -->
+<!-- slop-wallet:v1 {"address":"0x669fba588d75577610459a2577eabdbbba080e4a","chain":"ethereum"} -->
+<!-- slop-wallet:v1 {"address":"0x669fba588d75577610459a2577eabdbbba080e4a","chain":"robinhood"} -->
+<!-- slop-wallet:v1 {"address":"Cj1Nt6k36Fzie9KsgYaBnpw7J4oxm7nXbfBQeTzfboqi","chain":"solana"} -->
