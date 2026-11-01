@@ -1,4 +1,4 @@
-# Maaz (`@myhubstat`) — Smart Contract & Protocol Security Researcher
+# (`@myhubstat`) — Smart Contract & Protocol Security Researcher
 
 [![Portfolio & Audits](https://img.shields.io/badge/Security%20Portfolio-myhubstat%2Faudits-181717?logo=github)](https://github.com/myhubstat/audits)
 [![EVM Static Analyzer](https://img.shields.io/badge/Tooling-evm--bounty--guard%20v1.0.0-blue)](https://github.com/myhubstat/evm-bounty-guard)
